@@ -1,2 +1,2 @@
 # Programming-Collective-Intelligence
-Codes rewritten in Python 3 at book [Programming Collective Intelligence](https://book.douban.com/subject/2209702/)
+Source code for book [Programming Collective Intelligence](https://www.amazon.ca/Programming-Collective-Intelligence-Building-Applications/dp/0596529325) authored by Toby Segaran
